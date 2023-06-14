@@ -70,7 +70,7 @@ module.exports = {
             },
             {
               type: 'image',
-              src: '/wechat.png'
+              src: '/build/wechat.jpg'
             }
           ],
 
