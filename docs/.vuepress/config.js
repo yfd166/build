@@ -5,6 +5,7 @@ module.exports = {
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
     theme:"reco",
+    base:'/build/',
     themeConfig:{
         // 配置logo
         logo:'/favicon.ico',
