@@ -1,0 +1,97 @@
+---
+title: 订单申报
+date: '2023-06-08'
+sidebar: 'auto'
+---
+
+## 功能简介
+
+系统针对不同展位，不同申报阶段，提供了两种订单类型：
+
+- 租赁订单：只包含租赁品的订单，用户可以手动生成；
+- 展馆费用订单：包含特装管理费、特装押金、审图费等固定费用的订单，系统在主场管理方指定阶段自动生成，用户无法手动生成；
+
+特装展位除了会自动生成展馆费用订单外，在展馆费用订单付款成功后，也可以手动生成租赁订单。
+
+## 操作流程
+
+### 展馆费用订单
+
+针对特装展位，系统会在`搭建信息`或`图纸资料`审核通过后生成展馆费用订单，具体在哪个阶段生成以主场管理单位通知为准。
+
+1. 进入系统后，点击`订单管理` 。
+
+![image-20230608171033394](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081710436.png)
+
+2. 找到对应展位的订单，可以点击`查看订单` 查看订单详情。
+
+![image-20230608171359185](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081713228.png)
+
+::: warning 注意
+
+特装展位必须进行租赁，才能提交到主场管理方！
+
+:::
+
+3. 点击`去租赁`进入租赁列表。
+
+![image-20230608175453812](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081754858.png)
+
+4. 选择规格。
+
+![image-20230608175544622](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081755659.png)
+
+5. 加入租赁清单
+
+![image-20230608175615795](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081756833.png)
+
+6. 结算订单
+
+![未命名](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081802843.gif)
+
+订单结算之后即进入待审核状态，主场管理方审核通过之后，方可进行付款。
+
+### 租赁订单
+
+针对标摊展位与固定费用订单已完成的特装展位，进行租赁将会生成对应的租赁的订单。
+
+1. 在首页点击进入租赁服务。
+
+![image-20230609155626110](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306091556612.png)
+
+2. 选择需要租赁的展位，点击`去租赁`。
+
+![image-20230609155731879](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306091557922.png)
+
+3. 选择规格。
+
+![image-20230608175544622](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081755659.png)
+
+4. 选择规格。
+
+![image-20230608175615795](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081756833.png)
+
+5. 结算订单。
+
+![未命名](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081802843.gif)
+
+## 常见问题
+
+针对用户在使用过程中可能遇到的问题进行答疑。
+
+### 订单被驳回，如何处理？
+
+当订单被驳回时，需要用户手动处理，按管理方的审核意见修改订单后再提交审核。
+
+1. 在首页点击进入订单管理，找对被驳回的订单点击`修改订单`。
+
+![1111](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306091613250.png)
+
+2. 根据驳回理由对订单进行修改。
+
+![image-20230609161727383](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306091617433.png)
+
+3. 修改完成后，下翻到页面底部，点击`提交表单` 按钮进行提交。
+
+![image-20230612160817860](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306121608393.png)
+

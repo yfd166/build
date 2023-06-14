@@ -8,19 +8,19 @@ module.exports = {
     themeConfig:{
         // 配置logo
         logo:'/favicon.ico',
-
+        author: 'jack yuan',
         // 开启博客模式
         // type:'blog',
         
         // nav 配置页面右上方导航栏
         nav:[
-            {
-                text:"首页",
-                items:[
-                    {text:'主场用户指南',link:'/guide/homes/'},
-                    {text:'搭建商用户指南',link:'/guide/builds/'}
-                ]
-            },
+            // {
+            //     text:"首页",
+            //     items:[
+            //         {text:'主场用户指南',link:'/guide/homes/'},
+            //         {text:'搭建商用户指南',link:'/guide/builds/'}
+            //     ]
+            // },
             {
                 text:"立即试用",
                 items:[
@@ -38,7 +38,10 @@ module.exports = {
               '',
               'register',
               'login',
-              'builder'
+              'builder',
+              'order',
+              'payment',
+              'invoice'
             ]
             // '/':[
             //     '',
@@ -47,7 +50,7 @@ module.exports = {
         // subSidebar:'auto',
 
         // 最后更新时间
-        lastUpdated: '最后更新时间：', // string | boolean
+        lastUpdated: '最后更新时间', // string | boolean
     },
     locales: {
         "/": {
