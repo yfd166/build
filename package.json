@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "docs:export": "vuepress export docs"
   },
   "author": "",
   "license": "ISC",
@@ -14,5 +15,8 @@
     "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.16",
     "vuepress": "^1.9.9",
     "vuepress-theme-reco": "^1.6.17"
+  },
+  "dependencies": {
+    "vuepress-plugin-export": "^0.2.0"
   }
 }
