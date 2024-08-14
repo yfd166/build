@@ -33,7 +33,33 @@ module.exports = {
         // 左侧边栏（全局侧边栏），多文章管理
         sidebar:{
             '/guide/homes/':[
-                '',
+                {
+                  title: "入门必读",
+                  collapsable: true,
+                  children: [
+                    '',
+                    'init',
+                    'admin'
+                  ]
+                },
+                {
+                  title: "填充资源库",
+                  path:'/guide/homes/resources/',
+                  collapsable: false,
+                  children: [
+                    '',
+                    'facilities'
+                  ]
+                },
+                {
+                  title: "创建项目",
+                  path:'/guide/homes/project/',
+                  collapsable: false,
+                  children: [
+                    'create',
+                    'basic'
+                  ]
+                }
             ],
             '/guide/builds/':[
               '',
