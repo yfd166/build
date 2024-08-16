@@ -36,4 +36,4 @@ sidebar: 'auto'
 
 ## 整体流程
 
-![image-20231220094812478](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202312200948530.png)
+![image-20231220094812478](../../assets/init/202312200948530.png)

@@ -12,11 +12,11 @@ sidebar: 'auto'
 
 1. 点击订单列表右侧操作栏的`申请开票`按钮。
 
-![image-20230614162239051](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306141622087.png)
+![image-20230614162239051](../../assets/invoice/202306141622087.png)
 
 2. 选择您的发票类型后，输入您的开票信息。
 
-![image-20230614162324375](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306141623410.png)
+![image-20230614162324375](../../assets/invoice/202306141623410.png)
 
 ::: tip 提示
 

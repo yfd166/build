@@ -16,22 +16,18 @@ module.exports = {
         // nav 配置页面右上方导航栏
         nav:[
             {
-                text:"首页",
-                items:[
-                    {text:'主场用户指南',link:'/guide/homes/'},
-                    {text:'搭建商用户指南',link:'/guide/builds/'}
-                ]
+              text:"文档中心",link:'/guide/homes/',
             },
             {
-                text:"立即试用",
-                items:[
-                    {text:"主场",link:"https://builds.dataexpo.com.cn/login/home"},
-                    {text:"主办",link:"https://mp.dataexpo.com.cn/user/login"}
-                ]
+              text:'搭建商用户指南',link:'/guide/builds/'
+            },
+            {
+              text:"立即试用",link:"https://builds.dataexpo.com.cn/login/home"
             }
         ],
         // 左侧边栏（全局侧边栏），多文章管理
         sidebar:{
+          // 配置侧边栏分组
             '/guide/homes/':[
                 {
                   title: "入门必读",
@@ -44,20 +40,22 @@ module.exports = {
                 },
                 {
                   title: "填充资源库",
-                  path:'/guide/homes/resources/',
-                  collapsable: false,
+                  collapsable: true,
                   children: [
-                    '',
-                    'facilities'
+                    'resources/',
+                    'resources/facilities',
+                    'resources/templates',
+                    'resources/staff',
+                    'resources/receipt'
                   ]
                 },
                 {
                   title: "创建项目",
-                  path:'/guide/homes/project/',
-                  collapsable: false,
+                  collapsable: true,
                   children: [
-                    'create',
-                    'basic'
+                    'project/create',
+                    'project/basic',
+                    'project/check'
                   ]
                 }
             ],

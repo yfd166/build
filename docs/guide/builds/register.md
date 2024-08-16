@@ -37,11 +37,11 @@ sidebar: 'auto'
 
 2. 进入系统登录页后，点击登录按钮下方的`注册账号` 按钮 。
 
-   ![image-20230606232639415](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306062326274.png)
+   ![image-20230606232639415](../../assets/register/202306062326274.png)
 
 3. 进入注册页后，按要求/上传要求的信息。
 
-   ![image-20230606232759478](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306062327512.png)
+   ![image-20230606232759478](../../assets/register/202306062327512.png)
 
 4. 点击`立即注册` 按钮。
 

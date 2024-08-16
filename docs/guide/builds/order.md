@@ -21,11 +21,11 @@ sidebar: 'auto'
 
 1. 进入系统后，点击`订单管理` 。
 
-![image-20230608171033394](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081710436.png)
+![image-20230608171033394](../../assets/order/202306081710436.png)
 
 2. 找到对应展位的订单，可以点击`查看订单` 查看订单详情。
 
-![image-20230608171359185](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081713228.png)
+![image-20230608171359185](../../assets/order/202306081713228.png)
 
 ::: warning 注意
 
@@ -35,19 +35,19 @@ sidebar: 'auto'
 
 3. 点击`去租赁`进入租赁列表。
 
-![image-20230608175453812](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081754858.png)
+![image-20230608175453812](../../assets/order/202306081754858.png)
 
 4. 选择规格。
 
-![image-20230608175544622](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081755659.png)
+![image-20230608175544622](../../assets/order/202306081755659.png)
 
 5. 加入租赁清单
 
-![image-20230608175615795](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081756833.png)
+![image-20230608175615795](../../assets/order/202306081756833.png)
 
 6. 结算订单
 
-![未命名](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081802843.gif)
+![未命名](../../assets/order/202306081802843.gif)
 
 订单结算之后即进入待审核状态，主场管理方审核通过之后，方可进行付款。
 
@@ -57,23 +57,23 @@ sidebar: 'auto'
 
 1. 在首页点击进入租赁服务。
 
-![image-20230609155626110](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306091556612.png)
+![image-20230609155626110](../../assets/order/202306091556612.png)
 
 2. 选择需要租赁的展位，点击`去租赁`。
 
-![image-20230609155731879](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306091557922.png)
+![image-20230609155731879](../../assets/order/202306091557922.png)
 
 3. 选择规格。
 
-![image-20230608175544622](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081755659.png)
+![image-20230608175544622](../../assets/order/202306081755659.png)
 
 4. 选择规格。
 
-![image-20230608175615795](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081756833.png)
+![image-20230608175615795](../../assets/order/202306081756833.png)
 
 5. 结算订单。
 
-![未命名](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306081802843.gif)
+![未命名](../../assets/order/202306081802843.gif)
 
 ## 常见问题
 
@@ -85,13 +85,13 @@ sidebar: 'auto'
 
 1. 在首页点击进入订单管理，找对被驳回的订单点击`修改订单`。
 
-![1111](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306091613250.png)
+![1111](../../assets/order/202306091613250.png)
 
 2. 根据驳回理由对订单进行修改。
 
-![image-20230609161727383](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306091617433.png)
+![image-20230609161727383](../../assets/order/202306091617433.png)
 
 3. 修改完成后，下翻到页面底部，点击`提交表单` 按钮进行提交。
 
-![image-20230612160817860](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306121608393.png)
+![image-20230612160817860](../../assets/order/202306121608393.png)
 

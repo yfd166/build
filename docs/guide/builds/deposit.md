@@ -8,22 +8,22 @@ sidebar: 'auto'
 
 在展会结束之后，搭建商缴纳的押金需要退款，付款凭证上传审核通过且当前时间已到退押金时间段时，订单管理操作栏将会出现`退押金`按钮。
 
-![image-20230614161354936](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306141613982.png)
+![image-20230614161354936](../../assets/deposit/202306141613982.png)
 
 ## 操作流程
 
 1. 点击`退押金`按钮
 2. 在弹出得交互窗口中上传您的清洁确认单
 
-![image-20230614161518247](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306141615287.png)
+![image-20230614161518247](../../assets/deposit/202306141615287.png)
 
 3. 提交后，等待主场审核。
 
-![321321](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306141615719.png)
+![321321](../../assets/deposit/202306141615719.png)
 
 4. 待订单状态变更为`待开发票`时，可点击`查看订单` 按钮，查看清退押金详情。
 
-![image-20230614161958307](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306141619346.png)
+![image-20230614161958307](../../assets/deposit/202306141619346.png)
 
-![image-20230614162029507](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306141620558.png)
+![image-20230614162029507](../../assets/deposit/202306141620558.png)
 

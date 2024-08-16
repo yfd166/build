@@ -25,7 +25,7 @@ Windwos 或 Linux 请按 Ctrl+鼠标左键 打开下面的链接，MacOS/OS X �
 
 [数展主场运营系统](https://builds.dataexpo.com.cn/login/home)
 
-![image-20230606174342484](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306061743535.png)
+![image-20230606174342484](../../assets/README/202306061743535-20240815180640768.png)
 
 ::: tip
 将网址添加到您的浏览器收藏夹以便下次快速访问

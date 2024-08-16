@@ -25,7 +25,7 @@ sidebar: 'auto'
 
 2. 进入登录页后，在账号处输入注册时填写的`手机号` ，秘密输入注册时填写的密码即可；
 
-   ![image-20230606234208198](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306062342231.png)
+   ![image-20230606234208198](../../assets/login/202306062342231.png)
 
 3. 点击`登录` 按钮，即可进入系统。
 
@@ -39,6 +39,6 @@ sidebar: 'auto'
 
 2. 进入登录页后，输入注册时填写的手机号，点击获取验证码，将收到的验证码输入。
 
-   ![image-20230606234834273](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202306062348319.png)
+   ![image-20230606234834273](../../assets/login/202306062348319.png)
 
 3. 点击`登录` 按钮，即可进入系统。

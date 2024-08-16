@@ -1,6 +1,6 @@
 ---
 title: 管理员和管理员角色介绍
-data: 2023-12-19
+date: 2023-12-19
 sidebar: 'auto'
 ---
 
@@ -27,7 +27,7 @@ sidebar: 'auto'
 
 系统管理员角色为系统预设，无需自行创建。超级管理员可以直接添加成员成为超级管理员或其他管理员。
 
-![image-20231220093633189](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202312200936314.png)
+![image-20231220093633189](../../assets/admin/202312200936314.png)
 
 #### 自定义角色
 

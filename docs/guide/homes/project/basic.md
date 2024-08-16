@@ -11,21 +11,23 @@ sidebar: 'auto'
 3. 公司名称：填写当前收款账户的银行开户名称；
 4. 银行名称：填写该银行账户的开户行。
 
->  “logo 图”与“首页 logo 图”的区别：
->
->  logo 显示在搭建商端的项目选择列表左侧；
->
->  <img src="https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202312201057995.png" alt="image-20231220105741886" style="zoom: 25%;" />
->
->  首页 logo 图显示在搭建商端选择项目后的首页左上方。
->
->  <img src="https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202312201059733.png" alt="image-20231220105939668" style="zoom:25%;" />
+![image-20240815172110631](../../../assets/basic/image-20240815172110631-3715802.png)
+
+“logo 图”与“首页 logo 图”的区别：
+
+logo 显示在搭建商端的项目选择列表左侧；
+
+<img src="../../../assets/basic/202312201057995.png" alt="image-20231220105741886" style="zoom: 25%;" />
+
+首页 logo 图显示在搭建商端选择项目后的首页左上方。
+
+<img src="../../../assets/basic/202312201059733.png" alt="image-20231220105939668" style="zoom:25%;" />
 
 ## 工作人员
 
 通过该项配置搭建商首页的【主场信息】，数据来源于`资源>工作人员`模块。
 
-![image-20231220164157886](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/image-20231220164157886.png)
+![image-20231220164157886](../../../assets/basic/image-20231220164157886.png)
 
 ## 展馆设置
 
@@ -39,7 +41,7 @@ sidebar: 'auto'
 
 :::
 
-![image-20231220110525458](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202312201105503.png)
+![image-20231220110525458](../../../assets/basic/202312201105503.png)
 
 ## 时间设置
 
@@ -47,7 +49,7 @@ sidebar: 'auto'
 2. 退押金时间段：根据此时间段控制搭建商端【退押金】按钮的显示与隐藏
 3. 其它时间暂时只做系统展示作用
 
-![image-20231220110702788](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202312201107949.png)
+![image-20231220110702788](../../../assets/basic/202312201107949.png)
 
 ## 手册资料
 
@@ -57,4 +59,5 @@ sidebar: 'auto'
 
 设置后将显示到搭建商特装申报流程中，如下：
 
-![image-20231220111114600](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202312201111678.png)
+![image-20231220111114600](../../../assets/basic/202312201111678-3715802.png)
+

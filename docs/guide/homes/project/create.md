@@ -1,7 +1,7 @@
 ---
 title: 介绍
 date: 2023-12-20
-sibebar: 'auto'
+sidebar: 'auto'
 ---
 
 ::: warning 注意
@@ -12,7 +12,7 @@ sibebar: 'auto'
 
 使用该功能进行创建展会项目，在此过程中设置展会信息、收费标准、功能模块、审核流程等关键项。
 
-![image-20231220104449187](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/202312201044274.png)
+![image-20231220104449187](../../../assets/create/202312201044274.png)
 
 
 

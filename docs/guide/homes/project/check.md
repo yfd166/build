@@ -10,9 +10,9 @@ sidebar: 'auto'
 
 如图所示，当您在此处仅勾选特装申报、标摊申报、租赁服务、订单管理时，项目首页将仅显示这些入口：
 
-<img src="https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/image-20231220164801690.png" alt="image-20231220164801690" style="zoom:50%;" />
+<img src="../../../assets/check/image-20231220164801690.png" alt="image-20231220164801690" style="zoom:50%;" />
 
-![image-20231220164826178](https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/image-20231220164826178.png)
+![image-20231220164826178](../../../assets/check/image-20231220164826178.png)
 
 ## 审核设置
 
@@ -26,13 +26,13 @@ sidebar: 'auto'
 6. 租赁权限开放：针对特装展位，当开关开启时，展馆费用订单会在搭建信息审核通过后生成；当开关关闭时，展馆费用订单会在图纸资料全部审核通过后生成；
 7. 标摊业务审核：审核标摊的楣板信息或收集参展商的其它需求。
 
-<img src="https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/image-20231220165015385.png" alt="image-20231220165015385" style="zoom:50%;" />
+<img src="../../../assets/check/image-20231220165015385.png" alt="image-20231220165015385" style="zoom:50%;" />
 
 ## 短信设置
 
-在此配置短信通知的相关内容。
+选择使用何种签名及模板，在未申请签名的情况下，仅支持默认模板。
 
 1. 短信签名
 
-<img src="https://test-md.obs.cn-south-1.myhuaweicloud.com/img/apple/image-20231220165350872.png" alt="image-20231220165350872" style="zoom:50%;" />
+<img src="../../../assets/check/image-20231220165350872.png" alt="image-20231220165350872" style="zoom:50%;" />
 
